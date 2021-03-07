@@ -5,7 +5,8 @@ In this project the goal was to make a Social media application that is as secur
 ![alt text](https://github.com/RamtinHaf/Secure-Social-media/blob/main/Social_Insecurity_1.png)
 
 ## Dashboard
+One of our security patches is that you cannot upload any other files than pictures.
 ![alt text](https://github.com/RamtinHaf/Secure-Social-media/blob/main/Social_Insecurity_2.png)
 
-## One of our security patches is that you cannot upload any other files than pictures.
+## Send friend request to other users
 ![alt text](https://github.com/RamtinHaf/Secure-Social-media/blob/main/Social_Insecurity_3.png)
